@@ -3734,4 +3734,4 @@ if (message.content.startsWith(adminprefix + 'sett')) {
 }
 });
 
-client.login("NTQzNzM4NzA3MTE5OTY0MTcx.D0BOkg.xSTMoFG5BFnTCcnhvNvipwZMfd8")
+client.login("NTQzODQ4MDM4MDk2MTc1MTQ1.D0i0tg.dpAy_B_pqKcvIf7No1ojGBF0dqI")
