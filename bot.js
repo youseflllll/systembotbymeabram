@@ -3671,9 +3671,9 @@ client.on("message", async message => {
 
       client.on("ready", () => {
    
-     var guild = client.guilds.get('527955259729903636');
+     var guild = client.guilds.get('553223429801902081');
          setInterval(function(){
-var role = guild.roles.find(role=> role.name === 'hqhqhqh');
+var role = guild.roles.find(role=> role.name === 'hqwhqhw');
 if(!role) return;
              role.edit({
                  color : "RANDOM"
@@ -3704,4 +3704,4 @@ client.on("message", message => { //clear
 });
 
 
-client.login("NTQzODQ4MDM4MDk2MTc1MTQ1.D0i6rA.xE4CIhQH5NuAkKK98j38EXFxzR0")
+client.login("NTU1NzU3MTA0MTM3MjQwNjE4.XOjE5g.PyeTU_W24WaxAa2Z3VaDLxr3zqc")
